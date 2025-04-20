@@ -71,6 +71,6 @@ Confusion Matrix:
 ---
 You can find all the generated plots and graphs in the following folder:
 
-[View Plots](./sdd/plots)
+[View Plots](./plots.zip)
 
 Made by Vaibhav Surthi
